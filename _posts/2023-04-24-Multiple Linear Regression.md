@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "2. Multiple Linear Regression"
+---
+
 # Multiple Linear Regression
 
 y = b + m1x1 + m2x2 + ... + mnxn
