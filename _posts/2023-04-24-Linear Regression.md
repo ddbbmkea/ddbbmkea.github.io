@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "1. Linear Regression"
+---
+
 # Linear Regression
 y = mx + b
 ### 공부 시간에 따른 시험 점수
