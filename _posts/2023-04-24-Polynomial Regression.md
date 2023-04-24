@@ -1,8 +1,3 @@
----
-layout: single
-title:  "3. Polynomial Regression"
----
-
 # Polynomial Regression
 
 ### 공부시간에 따른 시험 점수 (우등생)
