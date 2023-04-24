@@ -1,7 +1,7 @@
 # Polynomial Regression
 
 ### 공부시간에 따른 시험 점수 (우등생)
-
+y = b + m1x + m2x^2 + ... + mnx^n
 
 ```python
 import numpy as np
