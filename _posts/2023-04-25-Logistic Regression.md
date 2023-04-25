@@ -1,4 +1,4 @@
-# 4. Logistic Regression
+# Logistic Regression
 
 시그모이드 함수 (로지스틱 함수)\
 p = 1 / (1 + e^-y)
