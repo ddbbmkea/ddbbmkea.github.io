@@ -72,8 +72,6 @@ df1.head()
     </tr>
   </tbody>
 </table>
-</div>
-
 
 
 
@@ -183,7 +181,7 @@ df2.head(3)
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -333,7 +331,7 @@ df1[['id', 'cast', 'crew']]
   </tbody>
 </table>
 <p>4803 rows × 3 columns</p>
-</div>
+
 
 
 
@@ -498,7 +496,7 @@ df2.head()
   </tbody>
 </table>
 <p>5 rows × 22 columns</p>
-</div>
+
 
 
 
@@ -746,7 +744,7 @@ q_movies.head()
   </tbody>
 </table>
 <p>5 rows × 23 columns</p>
-</div>
+
 
 
 
@@ -846,7 +844,7 @@ q_movies[['title', 'vote_count', 'vote_average', 'score']].head(10)
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -1497,7 +1495,7 @@ df2.iloc[[3]]
   </tbody>
 </table>
 <p>1 rows × 22 columns</p>
-</div>
+
 
 
 
@@ -2844,7 +2842,7 @@ df2.head(3)
   </tbody>
 </table>
 <p>3 rows × 22 columns</p>
-</div>
+
 
 
 
@@ -4647,7 +4645,7 @@ df2[df2['director'].isnull()]
   </tbody>
 </table>
 <p>30 rows × 23 columns</p>
-</div>
+
 
 
 
@@ -5364,7 +5362,7 @@ df2[['title', 'cast', 'director', 'keywords', 'genres']].head(3)
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -5437,7 +5435,7 @@ df2[['title', 'cast', 'director', 'keywords', 'genres']].head(3)
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -5821,7 +5819,7 @@ movies.head(5)
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
